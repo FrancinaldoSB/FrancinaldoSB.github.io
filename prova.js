@@ -29,7 +29,7 @@ function getProfileInfosGitHub(){
             textwriter.textContent = "" 
             textdirector.textContent = ""
             notafilme.textContent = ""
-            document.getElementById('img').style.backgroundImage = `url(fundo.jpg)`
+            document.getElementById('img').style.backgroundImage = `url(./Prova\ Mensal\ VF/fundo.jpg)`
         }
 
      })     
